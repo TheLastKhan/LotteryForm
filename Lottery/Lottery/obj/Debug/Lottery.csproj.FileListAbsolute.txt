@@ -1,0 +1,14 @@
+C:\Users\hakan\source\repos\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\hakan\source\repos\Lottery\Lottery\bin\Debug\Lottery.exe.manifest
+C:\Users\hakan\source\repos\Lottery\Lottery\bin\Debug\Lottery.application
+C:\Users\hakan\source\repos\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\hakan\source\repos\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\hakan\source\repos\Lottery\Lottery\obj\Debug\Lottery.csproj.AssemblyReference.cache
+C:\Users\hakan\source\repos\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
+C:\Users\hakan\source\repos\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\hakan\source\repos\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.cache
+C:\Users\hakan\source\repos\Lottery\Lottery\obj\Debug\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Lottery\Lottery\obj\Debug\Lottery.exe.manifest
+C:\Users\hakan\source\repos\Lottery\Lottery\obj\Debug\Lottery.application
+C:\Users\hakan\source\repos\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\hakan\source\repos\Lottery\Lottery\obj\Debug\Lottery.pdb
