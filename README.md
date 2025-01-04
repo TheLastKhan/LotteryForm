@@ -1,1 +1,1 @@
-# Loto
+# Lottery
